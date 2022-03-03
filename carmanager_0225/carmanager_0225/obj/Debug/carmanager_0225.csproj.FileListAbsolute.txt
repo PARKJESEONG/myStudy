@@ -1,0 +1,11 @@
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\bin\Debug\carmanager_0225.exe.config
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\bin\Debug\carmanager_0225.exe
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\bin\Debug\carmanager_0225.pdb
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\obj\Debug\carmanager_0225.csproj.AssemblyReference.cache
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\obj\Debug\carmanager_0225.csproj.SuggestedBindingRedirects.cache
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\obj\Debug\carmanager_0225.Form1.resources
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\obj\Debug\carmanager_0225.Properties.Resources.resources
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\obj\Debug\carmanager_0225.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\obj\Debug\carmanager_0225.csproj.CoreCompileInputs.cache
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\obj\Debug\carmanager_0225.exe
+C:\Users\KB\source\repos\carmanager_0225\carmanager_0225\obj\Debug\carmanager_0225.pdb
